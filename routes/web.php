@@ -1,5 +1,5 @@
 <?php
-
+use App\Reservation;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -42,6 +42,10 @@ Route::get('/menu-grid', function() {
 });
 Route::get('/table', function() {
     return view('table');
+});
+Route::get('/reserve', function() {
+    $reservations = Reservation::all();
+    return view('reservations.index')->with('reservations', $reservations);
 });
 Route::resource('reservation', 'ReservationsController');
 

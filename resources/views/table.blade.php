@@ -297,7 +297,7 @@
                 <div class="container">
                     <div class="pull-left">
                         <h5><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https:// Qliqk MS.com" target="_blank"> Design by P.E. Kessie, Department of Graphic Design</a>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="/reserve">Designed by P.E. Kessie, Department of Graphic Design.</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p></h5>
                     </div>
